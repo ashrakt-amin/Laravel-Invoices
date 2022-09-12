@@ -1,0 +1,16 @@
+{
+    "Home": "الصفحه الرئيسيه",
+    "Invoices":"الفواتير",
+    "Invoices List":"قائمه الفواتير",
+    "Paid Invoices":"الفواتير المدفوعه",
+    "un Paid Invoices":"الفواتير غير مدفوعه",
+    "Partial Paid Invoices":"الفواتير مدفوعه جزئيا",
+    "Clients":"العملاء",
+    "Reports":"التقارير",
+    "Users":"مستخدمين",
+    "users list":"قائمه المستخدمين",
+    "permissions":"الصلاحيات",
+    "Setting":"الاعدادات",
+    "sections":"الاقسام",
+    "products":"المنتجات"
+  }
